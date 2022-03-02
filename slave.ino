@@ -1,5 +1,3 @@
-#include <SoftwareSerial.h>
-
 // Sending/Receiving example
 
 HardwareSerial Receiver(2); // Define a Serial port instance called 'Receiver' using serial port 2
