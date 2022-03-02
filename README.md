@@ -3,7 +3,9 @@ This repository for ESP32 to communication eith other esp32 using Serial Communi
 
 # Wiring
 ESP32(1)  >>  ESP32(2)
+
 16        >>  27
+
 17        >>  14
 
 # explanation
